@@ -25,7 +25,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Android%20development-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Jetpack%20Compose-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)||
+|![](https://img.shields.io/badge/Android%20development-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Jetpack%20Compose-brightgreen?style=for-the-badge)|||
 |---|---|---|---|---|
 
 <Br>
@@ -33,7 +33,8 @@
 <Br>
 <h1>My favorite projects! 🎨</h1>
 <Br>
-  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=faridGuliyew&repo=compose-world)](https://github.com/faridGuliyew/compose-world)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=faridGuliyew&repo=compose-playgrounds)](https://github.com/faridGuliyew/compose-playgrounds)
 
 <Br>
